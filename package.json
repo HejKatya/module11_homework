@@ -1,0 +1,19 @@
+{
+  "name": "js-testing",
+  "version": "1.0.0",
+  "description": "skillfactory homework on testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HejKatya/module11_homework.git"
+  },
+  "author": "HejKatya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HejKatya/module11_homework/issues"
+  },
+  "homepage": "https://github.com/HejKatya/module11_homework#readme"
+}
